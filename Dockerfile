@@ -1,1 +1,1 @@
-From gcr.io/google_containers/kubedns-amd64:3.0
+From gcr.io/googlecontainer/pause-amd64:3.0
